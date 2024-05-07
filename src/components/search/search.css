@@ -1,0 +1,18 @@
+.searchContainer{
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+}
+
+.company{
+    outline: none;
+    border: none;
+    border: 1px solid rgb(215, 215, 215);
+    border-radius: 5px;
+    padding: 0 14px;
+    font-size: 15px;
+    height: 38px;
+}
