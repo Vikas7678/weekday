@@ -1,8 +1,27 @@
-# React + Vite
+# Candidate Application Platfrom
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React application designed to demonstrate __Candidate application platform that allows users to view job listings, filter jobs based on various criteria, and implement infinite scroll for a seamless browsing experience.__
 
-Currently, two official plugins are available:
+## Prerequisites
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Before you begin, ensure you have met the following requirements:
+
+- You have `node.js` installed at least version
+- You have `npm` installed
+- You have Git installed
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone git@github.com:Vikas7678/weekday.git
+   cd weekday
+2. **Install and Run**
+    ```bash
+    npm i or npm install    // install dependencies
+    npm run dev             //run Project
